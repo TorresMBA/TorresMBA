@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hackvan&layout=compact&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TorresMBA&layout=compact&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m previously working with 🛠 PL/SQL (Oracle), SQL & ❤ Ruby
 - 🌱 I’m currently learning/working with [elixir-lang](https://elixir-lang.org/) 🤔
