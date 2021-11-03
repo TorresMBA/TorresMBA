@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## &#x1f4c8; GitHub Stats
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TorresMBA&layout=compact&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m previously working with 🛠 MySQL, NodeJS & ❤ Laravel
