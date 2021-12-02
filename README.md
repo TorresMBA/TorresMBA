@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TorresMBA&layout=compact&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m previously working with 🛠 MySQL, NodeJS & ❤ Laravel
+- 🔭 I’m previously working with 🛠 C# ❤, Laravel, MySQL & Sql Server
 - 🌱 I’m currently learning/working with [python](https://www.python.org/) 🤔
 - 💬 Ask me about: pe Perú
 - 📫 How to reach me: [Email](mailto:bryan98tm@gmail.com), [Twitter](https://twitter.com/Brian_T_M) or [Instagram](https://www.instagram.com/brian.tm29/)
