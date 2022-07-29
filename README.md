@@ -1,3 +1,4 @@
+<!--
 ### Hi there 👋
 
 ## &#x1f4c8; GitHub Stats
@@ -9,7 +10,7 @@
 - 💬 Ask me about: pe Perú
 - 📫 How to reach me: [Email](mailto:bryan98tm@gmail.com), [Twitter](https://twitter.com/Brian_T_M) or [Instagram](https://www.instagram.com/brian.tm29/)
 
-<!--
+
 **TorresMBA/TorresMBA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
