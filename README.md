@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 -->
 
 <!--Versión 2-->
+<!--
 <h1 align="center">Hi 👋, I'm Brian Torres</h1>
 <h3 align="center">A developer from Peru with a passion for the backend with knowledge in frontend</h3>
 
@@ -51,9 +52,20 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=torresmba&show_icons=true&locale=en&layout=compact" alt="torresmba" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=torresmba&show_icons=true&locale=en" alt="torresmba" /></p>
-
+-->
 <!--Versión 3-->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+from+Perú;I'm+24+years+old;Welcome!)
+
+<h1 align="center">Hi 👋, I'm Brian Torres</h1>
+<h3 align="center">A developer from Peru with a passion for the backend with knowledge in frontend</h3>
+
+- 🔭 I’m currently working on **Everilion Software made C# .NET ♥ in NTT Data Company**
+
+- 🌱 I’m currently learning **Angular & TypeScript**
+
+- 👨‍💻 All of my projects are available at [https://torresmbax.web.app/](https://torresmbax.web.app/)
+
+- 📫 How to reach me **bryan98tm@gmail.com**
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=torresmba&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
 
@@ -65,8 +77,8 @@ Here are some ideas to get you started:
 
 <div align="center"> 
 <a href="https://instagram.com/brian.tm29" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://www.tiktok.com/@bastndev" target="_blank"><img src="https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
-<a href="https://twitter.com/bastndev" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B2?style=for-the-badge&logo=twitter&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="[https://www.tiktok.com/@bastndev](https://linkedin.com/in/https://www.linkedin.com/in/torresmba/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://discord.gg/Michigun#3074" target="_blank"><img src="https://img.shields.io/badge/-Discord-%23525de9?style=for-the-badge&logo=discord&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
   
  <div align="center">
