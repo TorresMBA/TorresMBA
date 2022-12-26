@@ -1,3 +1,4 @@
+<!--Versión 1-->
 <!--
 ### Hi there 👋
 
@@ -25,8 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
+<!--Versión 2-->
 <h1 align="center">Hi 👋, I'm Brian Torres</h1>
 <h3 align="center">A developer from Peru with a passion for the backend with knowledge in frontend</h3>
 
@@ -52,3 +52,19 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=torresmba&show_icons=true&locale=en" alt="torresmba" /></p>
 
+<!--Versión 3-->
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+from+Perú;I'm+24+years+old;Welcome!)
+
+<div align="center"> 
+<a href="https://www.instagram.com/bastndev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.tiktok.com/@bastndev" target="_blank"><img src="https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
+<a href="https://twitter.com/bastndev" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B2?style=for-the-badge&logo=twitter&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+  
+ <div align="center">
+  <br><p align="centre"><b>Visitors Count 👽 </b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{bastndev}/count.svg" /></p> 
+  <br>
+</div>
+ 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
