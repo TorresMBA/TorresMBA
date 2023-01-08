@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 
 <div align="center"> 
 <a href="https://instagram.com/brian.tm29" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="[https://www.tiktok.com/@bastndev](https://linkedin.com/in/https://www.linkedin.com/in/torresmba/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/torresmba" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/Michigun#3074" target="_blank"><img src="https://img.shields.io/badge/-Discord-%23525de9?style=for-the-badge&logo=discord&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
   
