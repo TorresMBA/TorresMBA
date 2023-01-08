@@ -87,4 +87,5 @@ Here are some ideas to get you started:
   <br>
 </div>
  
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)-->
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
